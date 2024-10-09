@@ -1,4 +1,4 @@
-*.R linguist-language=R
+* linguist-language=R
 
 *.csv linguist-detectable=false
 *.md linguist-detectable=false
